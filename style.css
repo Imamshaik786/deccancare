@@ -80,6 +80,7 @@ color: red;
     justify-content: center;
     align-items: center;
     color: white;
+    height:40vh;
 }
 .head{
     color: red;
@@ -217,9 +218,7 @@ font-size: 17px;
     .h-nav-res{
         height: 72px;
     }
-    .v-class-res{
-    opacity: 0;
-    }
+  
 }
  html{
     scroll-behavior: smooth;
