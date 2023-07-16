@@ -41,6 +41,11 @@ color: white;
 .nav-list li a:hover {
 color: red;
 }
+.logout input{
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
 .right-nav{
     width: 30%;
     #background-color: blue;
